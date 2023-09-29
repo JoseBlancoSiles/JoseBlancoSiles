@@ -1,4 +1,4 @@
-[!MasterHead](https://media.licdn.com/dms/image/C5616AQGME8bzWztDXA/profile-displaybackgroundimage-shrink_200_800/0/1540327266210?e=2147483647&v=beta&t=EgndcRaGxLLL4YBL5AmfCHfn6up45l_YvPPQ3r625sY)
+![Banner](./github-banner.jfif)
 <h1 align="left">Hi there! I'm José Siles, a passionate Data Engineer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseblancosiles&label=Profile%20views&color=0e75b6&style=flat" alt="joseblancosiles" /> </p>
