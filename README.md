@@ -1,8 +1,6 @@
 ![Banner](./github-banner.jfif)
 <h1 align="left">Hi there! I'm José Siles, a passionate Data Engineer</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseblancosiles&label=Profile%20views&color=0e75b6&style=flat" alt="joseblancosiles" /> </p>
-
+First of all, welcome to my GitHub profile! Thanks for coming. Please grab a cup of coffee ☕ and enjoy!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/josesilesb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josesilesb" height="30" width="40" /></a>
